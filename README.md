@@ -7,6 +7,8 @@ I will surely make it open-source.
 
 You will find a video of the program running in order to give you an idea of what it does and the technologies it uses.
 
+I've programmed this Java Swing application to make it simpler and faster to manage KepServerEX. Including IoT Gateway connections, it includes a configuration API client. Some extra functions are present, which include direct communication with an excel file for saving connection credentials for faster server switching and saving program logs with just a click into your folder.
+
 Thanks,
 
 -Yunus Emre Vurgun
