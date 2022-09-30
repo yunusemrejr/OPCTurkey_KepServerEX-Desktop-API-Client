@@ -1,0 +1,4 @@
+IP and Port,Username,Password,Give it a name
+http://127.0.0.1:500/iotgateway/,,,my 1st REST
+http://111.4.1.1:200/iotgateway/,,,my 2nd REST
+127.0.0.1:3464,administrator,1234,my 1st CONFIG
