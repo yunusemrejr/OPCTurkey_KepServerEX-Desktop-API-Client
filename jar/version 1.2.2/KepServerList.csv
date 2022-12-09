@@ -1,0 +1,4 @@
+IP and Port,Username,Password,Give it a name
+127.0.0.1:57412, administrator, x, config1
+http://127.0.0.1:3001/iotgateway/, , , iot1
+127.1.0.1:11112, administrator, , config2
