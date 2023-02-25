@@ -1,0 +1,110 @@
+
+countMatches = >0 for projectID indexIdentifier1                         2022-10-12-14:07:44.759
+
+countMatches = >0 for projectID indexIdentifier2                        2022-10-12-14:07:44.759 
+
+1162027844                       2022-10-12-14:07:44.759 
+
+Bender                          2022-10-12-14:07:44.759 
+
+Channel1                          2022-10-12-14:07:44.759 
+
+Channel2                          2022-10-12-14:07:44.759 
+
+CNCMill                          2022-10-12-14:07:44.759 
+
+CNCTurning                          2022-10-12-14:07:44.759 
+
+GantryRobot                          2022-10-12-14:07:44.759 
+
+Grinder                          2022-10-12-14:07:44.759 
+
+LaserCutter                          2022-10-12-14:07:44.759 
+
+Line01                          2022-10-12-14:07:44.759 
+
+Line02                          2022-10-12-14:07:44.759 
+
+Line03                          2022-10-12-14:07:44.759 
+
+Modbus                          2022-10-12-14:07:44.759 
+
+Press                          2022-10-12-14:07:44.759 
+
+Printer                          2022-10-12-14:07:44.759 
+
+siemens                          2022-10-12-14:07:44.759 
+
+Sim                          2022-10-12-14:07:44.759 
+
+Sim1                          2022-10-12-14:07:44.759 
+
+SinkingEDM                          2022-10-12-14:07:44.759 
+
+SmartTools                          2022-10-12-14:07:44.759 
+
+WaterCutter                          2022-10-12-14:07:44.759 
+
+WeldingRobot                          2022-10-12-14:07:44.759 
+
+WireEDM                          2022-10-12-14:07:44.759 
+
+[
+	{
+		"PROJECT_ID": 1162027844,
+		"common.ALLTYPES_NAME": "GantryRobot",
+		"common.ALLTYPES_DESCRIPTION": "",
+		"servermain.MULTIPLE_TYPES_DEVICE_DRIVER": "Simulator",
+		"servermain.DEVICE_MODEL": 0,
+		"servermain.DEVICE_UNIQUE_ID": 1010740869,
+		"servermain.DEVICE_CHANNEL_ASSIGNMENT": "GantryRobot",
+		"servermain.DEVICE_ID_FORMAT": 1,
+		"servermain.DEVICE_ID_STRING": "1",
+		"servermain.DEVICE_ID_HEXADECIMAL": 1,
+		"servermain.DEVICE_ID_DECIMAL": 1,
+		"servermain.DEVICE_ID_OCTAL": 1,
+		"servermain.DEVICE_DATA_COLLECTION": true,
+		"servermain.DEVICE_STATIC_TAG_COUNT": 15,
+		"servermain.DEVICE_SCAN_MODE": 0,
+		"servermain.DEVICE_SCAN_MODE_RATE_MS": 1000,
+		"servermain.DEVICE_SCAN_MODE_PROVIDE_INITIAL_UPDATES_FROM_CACHE": false
+	}
+]
+                          2022-10-12-14:07:44.759
+
+Tag count is: 15                         2022-10-12-14:07:44.759 
+
+ counted number of devices in this channel are:  1                        2022-10-12-14:07:44.759 
+
+ ***RESPONSE2CLONE******[
+	{
+		"PROJECT_ID": 1162027844,
+		"common.ALLTYPES_NAME": "GantryRobot",
+		"common.ALLTYPES_DESCRIPTION": "",
+		"servermain.MULTIPLE_TYPES_DEVICE_DRIVER": "Simulator",
+		"servermain.DEVICE_MODEL": 0,
+		"servermain.DEVICE_UNIQUE_ID": 1010740869,
+		"servermain.DEVICE_CHANNEL_ASSIGNMENT": "GantryRobot",
+		"servermain.DEVICE_ID_FORMAT": 1,
+		"servermain.DEVICE_ID_STRING": "1",
+		"servermain.DEVICE_ID_HEXADECIMAL": 1,
+		"servermain.DEVICE_ID_DECIMAL": 1,
+		"servermain.DEVICE_ID_OCTAL": 1,
+		"servermain.DEVICE_DATA_COLLECTION": true,
+		"servermain.DEVICE_STATIC_TAG_COUNT": 15,
+		"servermain.DEVICE_SCAN_MODE": 0,
+		"servermain.DEVICE_SCAN_MODE_RATE_MS": 1000,
+		"servermain.DEVICE_SCAN_MODE_PROVIDE_INITIAL_UPDATES_FROM_CACHE": false
+	}
+]
+************                        2022-10-12-14:07:44.759 
+
+GantryRobot..... activated because we have less than 2 devices                          2022-10-12-14:07:44.759 
+
+
+ *DEVICE NAMES IN CURRENT CHANNEL: [GantryRobot]*********
+                          2022-10-12-14:07:44.759 
+
+creating file named: Logs-2022-10-12-14-07-44.759.txt                              2022-10-12-14:07:44.759 
+
+ writing into file named:  Logs-2022-10-12-14-07-44.759.txt                           2022-10-12-14:07:44.759 
